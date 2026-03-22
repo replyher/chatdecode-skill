@@ -1,9 +1,10 @@
 ---
 name: chatdecode
 description: >
-  AI message decoder — reveals the real meaning behind any text message.
-  Analyzes tone, subtext, emotional state, and hidden intentions in conversations.
-  Works with WeChat, WhatsApp, iMessage, Telegram, DMs. 聊天解读 潜台词分析 读懂言外之意
+  聊天解读 潜台词分析 消息含义。Chat message decoder, read between the lines.
+  Reveals hidden meaning, tone, emotional state in text messages.
+  分析微信聊天 读懂言外之意 理解对方心思。WeChat WhatsApp iMessage decode.
+  恋爱聊天分析 职场消息解读 社交潜台词 decode subtext analyze chat message
 metadata:
   openclaw:
     emoji: "🔍"
