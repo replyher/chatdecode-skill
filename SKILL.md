@@ -7,7 +7,7 @@ description: >
   恋爱聊天分析 职场消息解读 社交潜台词 decode subtext analyze chat message
 metadata:
   openclaw:
-    emoji: "🔍"
+    emoji: "💕🔥"
 ---
 
 # ChatDecode — Read Between Every Line
