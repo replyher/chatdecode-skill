@@ -1,12 +1,10 @@
 ---
 name: chatdecode
 description: >
-  Decode what people really mean in their messages. This AI reads between the lines
-  to reveal hidden emotions, passive aggressive undertones, and unspoken intent in
-  any text conversation. Detects interest signals, red flags, gaslighting patterns,
-  and emotional manipulation. Analyzes tone shifts across a conversation to spot when
-  someone lost interest or is being dishonest. Works with WeChat, WhatsApp, iMessage,
-  Slack, dating apps. 聊天潜台词解读、情绪分析、消息真实含义、言外之意。
+  ChatDecode is an AI message decoder that reads between the lines when a text feels
+  vague, loaded, or emotionally off. It explains subtext, hidden meaning, tone shifts,
+  passive aggression, flirting signals, gaslighting patterns, and honesty gaps in chats
+  from WeChat, WhatsApp, iMessage, Slack, and dating apps. 聊天解读、潜台词分析、消息真实含义、情绪识别。
 metadata:
   openclaw:
     emoji: "💕🔥"
