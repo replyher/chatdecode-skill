@@ -233,6 +233,7 @@ When the user shares a group chat, don't only decode the words. Decode the socia
    - One person being politely left out
    - Side-taking after conflict or teasing
    - Flirtation hidden inside "group-safe" banter
+   - Passive-aggressive shots disguised as jokes, reminders, or "just saying"
 
 ### Common group patterns
 
@@ -243,6 +244,7 @@ When the user shares a group chat, don't only decode the words. Decode the socia
 | Two people keep building on each other's messages | Alliance, comfort, or mutual attraction |
 | One person only appears for logistics | Functional participation, low emotional investment |
 | Group goes quiet after one message | Awkward energy, bad timing, or topic mismatch |
+| "Some people..." / "某些人..." style comments | Indirect criticism meant for a specific target |
 
 ### Output for group chat analysis
 
@@ -296,10 +298,17 @@ Always compare it to baseline, not fantasy:
    - Replies only when convenient
    - Doesn't repair the gap afterward
 
-4. **Strategic distance / fading**
+4. **Conflict avoidance / power play / fading**
    - Reply pattern clearly worsens over time
-   - Especially avoids future plans, emotional clarity, or direct questions
-   - The silence IS the answer
+   - Avoids future plans, emotional clarity, or direct questions
+   - Uses delay to dodge tension, keep control, or avoid giving a clear no
+   - Could mean lost interest, conflict avoidance, or a mild power move depending on the pattern
+
+### Key filters
+
+- **Time of day:** midnight reads after an emotional text often mean overwhelm; daytime silence on simple logistics often means low priority
+- **Message complexity:** long emotional paragraphs are easier to postpone than "7 or 8?"
+- **Reply repair:** genuinely busy people usually come back and close the loop; avoidant people often come back with a soft excuse but still dodge the actual question
 
 **Rule: 一次已读不回是意外，三次已读不回是态度。**
 
